@@ -1,10 +1,12 @@
 ## Hi there 👋
-My name is Amy :) I’m a Computer Science student at the University of Melbourne with a passion for software development and design. Proficient in Java, C, Python and JavaScript, I thrive on building tech-driven solutions to real-world challenges. Whether through code, web development, or creating impactful graphics for student organisations, I bring creativity and collaboration to every project. A people person at heart, I excel in team environments, driven by innovation and continuous growth!
+My name is Amy :) I’m a Computer Science student at the University of Melbourne with a passion for software development and design. Proficient in Java, C, Python and JavaScript, I thrive on building ☁️ imaginative, 👀 creative solutions to real-world challenges. Whether through code, web development, or creating impactful graphics for student organisations, I bring creativity and collaboration to every project. A people person at heart, I excel in team environments, driven by innovation and continuous growth!
 
 I'm a computer science student at the University of Melbourne passionate about software development and design ✨. Proficient in Java, C, Python, Javascript, Typescript and CSS/HTML, I love challenging myself to create innovative tech-driven products and things that I find cool 🆒😎 :) Whether through code 👩‍💻, web development, game-making 🕹️, or creating impactful graphics 💅 for student organisations, I bring creativity and collaboration 🤝 to every project 💪. 
 
 ### Ongoing projects
-I'm currently working on improving a puzzle, storybook game made in Godot with my very talented teammates. We are hoping to improve the quality of our game and its replayability.
+I'm currently working on:
+1. Improving a puzzle, storybook game made in Godot with my very talented teammates. We are hoping to improve the quality of our game and its replayability.
+2. Creating my own portfolio website on github! I want to display my previous and ongoing projects so that the public can see what I like working on!
 
 ### Technical skills
 **Software**
